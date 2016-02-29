@@ -7,13 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F2A10A41C849F2C002F6A6A /* pergamino.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F2A10A31C849F2C002F6A6A /* pergamino.jpg */; };
+		7F2A10A71C84A46D002F6A6A /* information.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F2A10A51C84A46D002F6A6A /* information.png */; };
+		7F2A10A81C84A46D002F6A6A /* information@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F2A10A61C84A46D002F6A6A /* information@2x.png */; };
 		7F4CDAC41C6E08090029ABA2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F4CDAC31C6E08090029ABA2 /* main.m */; };
 		7F4CDAC71C6E08090029ABA2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F4CDAC61C6E08090029ABA2 /* AppDelegate.m */; };
 		7F4CDAC91C6E08090029ABA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F4CDAC81C6E08090029ABA2 /* Assets.xcassets */; };
 		7F4CDACC1C6E08090029ABA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F4CDACA1C6E08090029ABA2 /* LaunchScreen.storyboard */; };
+		7F4CDAD51C6E095B0029ABA2 /* BVCWineModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F4CDAD41C6E095B0029ABA2 /* BVCWineModel.m */; };
+		7F52C0C71C70DD520028EF94 /* BVCWineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F52C0C51C70DD520028EF94 /* BVCWineViewController.m */; };
+		7F52C0C81C70DD520028EF94 /* BVCWineViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F52C0C61C70DD520028EF94 /* BVCWineViewController.xib */; };
+		7F52C0CB1C70FF920028EF94 /* splitView_score_glass@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F52C0CA1C70FF920028EF94 /* splitView_score_glass@2x.png */; };
+		7F52C0CE1C7100C40028EF94 /* bembibre.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F52C0CD1C7100C40028EF94 /* bembibre.jpg */; };
+		7F52C0D21C71087B0028EF94 /* BVCWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F52C0D01C71087B0028EF94 /* BVCWebViewController.m */; };
+		7F52C0D31C71087B0028EF94 /* BVCWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F52C0D11C71087B0028EF94 /* BVCWebViewController.xib */; };
+		7F52C0D61C71DA200028EF94 /* comtesDeChampagne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F52C0D41C71DA200028EF94 /* comtesDeChampagne.jpg */; };
+		7F52C0D71C71DA200028EF94 /* zarate.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7F52C0D51C71DA200028EF94 /* zarate.gif */; };
+		7F52C0DA1C71F9590028EF94 /* BVCWineryModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F52C0D91C71F9590028EF94 /* BVCWineryModel.m */; };
+		7F52C0DD1C71FFBF0028EF94 /* BVCWineryTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F52C0DC1C71FFBF0028EF94 /* BVCWineryTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F2A10A31C849F2C002F6A6A /* pergamino.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pergamino.jpg; sourceTree = "<group>"; };
+		7F2A10A51C84A46D002F6A6A /* information.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = information.png; sourceTree = "<group>"; };
+		7F2A10A61C84A46D002F6A6A /* information@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "information@2x.png"; sourceTree = "<group>"; };
 		7F4CDABF1C6E08090029ABA2 /* Baccus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Baccus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F4CDAC31C6E08090029ABA2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7F4CDAC51C6E08090029ABA2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -21,6 +38,22 @@
 		7F4CDAC81C6E08090029ABA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F4CDACB1C6E08090029ABA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F4CDACD1C6E08090029ABA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F4CDAD31C6E095B0029ABA2 /* BVCWineModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BVCWineModel.h; path = ../BVCWineModel.h; sourceTree = "<group>"; };
+		7F4CDAD41C6E095B0029ABA2 /* BVCWineModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BVCWineModel.m; path = ../BVCWineModel.m; sourceTree = "<group>"; };
+		7F52C0C41C70DD520028EF94 /* BVCWineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BVCWineViewController.h; sourceTree = "<group>"; };
+		7F52C0C51C70DD520028EF94 /* BVCWineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BVCWineViewController.m; sourceTree = "<group>"; };
+		7F52C0C61C70DD520028EF94 /* BVCWineViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BVCWineViewController.xib; sourceTree = "<group>"; };
+		7F52C0CA1C70FF920028EF94 /* splitView_score_glass@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "splitView_score_glass@2x.png"; sourceTree = "<group>"; };
+		7F52C0CD1C7100C40028EF94 /* bembibre.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bembibre.jpg; sourceTree = "<group>"; };
+		7F52C0CF1C71087B0028EF94 /* BVCWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BVCWebViewController.h; sourceTree = "<group>"; };
+		7F52C0D01C71087B0028EF94 /* BVCWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BVCWebViewController.m; sourceTree = "<group>"; };
+		7F52C0D11C71087B0028EF94 /* BVCWebViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BVCWebViewController.xib; sourceTree = "<group>"; };
+		7F52C0D41C71DA200028EF94 /* comtesDeChampagne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = comtesDeChampagne.jpg; sourceTree = "<group>"; };
+		7F52C0D51C71DA200028EF94 /* zarate.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = zarate.gif; sourceTree = "<group>"; };
+		7F52C0D81C71F9590028EF94 /* BVCWineryModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BVCWineryModel.h; sourceTree = "<group>"; };
+		7F52C0D91C71F9590028EF94 /* BVCWineryModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BVCWineryModel.m; sourceTree = "<group>"; };
+		7F52C0DB1C71FFBF0028EF94 /* BVCWineryTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BVCWineryTableViewController.h; sourceTree = "<group>"; };
+		7F52C0DC1C71FFBF0028EF94 /* BVCWineryTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BVCWineryTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +86,9 @@
 		7F4CDAC11C6E08090029ABA2 /* Baccus */ = {
 			isa = PBXGroup;
 			children = (
+				7F52C0CC1C70FF9D0028EF94 /* Resources */,
+				7F52C0C91C70DDB90028EF94 /* Controllers */,
+				7F4CDAD61C6E09780029ABA2 /* Models */,
 				7F4CDAC51C6E08090029ABA2 /* AppDelegate.h */,
 				7F4CDAC61C6E08090029ABA2 /* AppDelegate.m */,
 				7F4CDAC81C6E08090029ABA2 /* Assets.xcassets */,
@@ -69,6 +105,46 @@
 				7F4CDAC31C6E08090029ABA2 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7F4CDAD61C6E09780029ABA2 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7F52C0D81C71F9590028EF94 /* BVCWineryModel.h */,
+				7F52C0D91C71F9590028EF94 /* BVCWineryModel.m */,
+				7F4CDAD31C6E095B0029ABA2 /* BVCWineModel.h */,
+				7F4CDAD41C6E095B0029ABA2 /* BVCWineModel.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		7F52C0C91C70DDB90028EF94 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				7F52C0DB1C71FFBF0028EF94 /* BVCWineryTableViewController.h */,
+				7F52C0DC1C71FFBF0028EF94 /* BVCWineryTableViewController.m */,
+				7F52C0C41C70DD520028EF94 /* BVCWineViewController.h */,
+				7F52C0C51C70DD520028EF94 /* BVCWineViewController.m */,
+				7F52C0C61C70DD520028EF94 /* BVCWineViewController.xib */,
+				7F52C0CF1C71087B0028EF94 /* BVCWebViewController.h */,
+				7F52C0D01C71087B0028EF94 /* BVCWebViewController.m */,
+				7F52C0D11C71087B0028EF94 /* BVCWebViewController.xib */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		7F52C0CC1C70FF9D0028EF94 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7F2A10A51C84A46D002F6A6A /* information.png */,
+				7F2A10A61C84A46D002F6A6A /* information@2x.png */,
+				7F2A10A31C849F2C002F6A6A /* pergamino.jpg */,
+				7F52C0D41C71DA200028EF94 /* comtesDeChampagne.jpg */,
+				7F52C0D51C71DA200028EF94 /* zarate.gif */,
+				7F52C0CD1C7100C40028EF94 /* bembibre.jpg */,
+				7F52C0CA1C70FF920028EF94 /* splitView_score_glass@2x.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,8 +204,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F2A10A71C84A46D002F6A6A /* information.png in Resources */,
+				7F52C0CB1C70FF920028EF94 /* splitView_score_glass@2x.png in Resources */,
+				7F52C0D61C71DA200028EF94 /* comtesDeChampagne.jpg in Resources */,
+				7F52C0D31C71087B0028EF94 /* BVCWebViewController.xib in Resources */,
 				7F4CDAC91C6E08090029ABA2 /* Assets.xcassets in Resources */,
+				7F2A10A41C849F2C002F6A6A /* pergamino.jpg in Resources */,
 				7F4CDACC1C6E08090029ABA2 /* LaunchScreen.storyboard in Resources */,
+				7F2A10A81C84A46D002F6A6A /* information@2x.png in Resources */,
+				7F52C0D71C71DA200028EF94 /* zarate.gif in Resources */,
+				7F52C0CE1C7100C40028EF94 /* bembibre.jpg in Resources */,
+				7F52C0C81C70DD520028EF94 /* BVCWineViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,8 +225,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F52C0DD1C71FFBF0028EF94 /* BVCWineryTableViewController.m in Sources */,
+				7F4CDAD51C6E095B0029ABA2 /* BVCWineModel.m in Sources */,
 				7F4CDAC71C6E08090029ABA2 /* AppDelegate.m in Sources */,
+				7F52C0D21C71087B0028EF94 /* BVCWebViewController.m in Sources */,
 				7F4CDAC41C6E08090029ABA2 /* main.m in Sources */,
+				7F52C0C71C70DD520028EF94 /* BVCWineViewController.m in Sources */,
+				7F52C0DA1C71F9590028EF94 /* BVCWineryModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,10 +335,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_PREFIX_HEADER = "";
 				INFOPLIST_FILE = Baccus/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.t-systems.Baccus";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -256,10 +349,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_PREFIX_HEADER = "";
 				INFOPLIST_FILE = Baccus/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.t-systems.Baccus";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -282,6 +378,7 @@
 				7F4CDAD21C6E080A0029ABA2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
